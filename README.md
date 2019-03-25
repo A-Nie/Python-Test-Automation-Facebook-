@@ -22,4 +22,4 @@ you must you must enter the "Page Object Xpath" path for your profile
 
 # after that you will see prompt with username (facebook mail or phone number) and password prommpt (entering the password can not be seen is hidden by default)
 
-# If you log in correctly, the browser window will open, log in to your facebook and enter your profile and then close itself.
+# If you log in correctly, the browser window : will open, log in to your facebook and enter your profile, facebook main page, news, adding new post and then closes itself.

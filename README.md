@@ -12,7 +12,7 @@
 
 *In this place -> 
 # profile = driver.find_element_by_xpath("//span[@class='xxx'][contains(.,'xxx')]")
-you must you must enter the xpath path for your profile
+you must you must enter the "Page Object Xpath" path for your profile
 
 
 # select the folder "venv" -> go to "Scripts" -> find the file "python.exe" -> right click "copy path" -> paste to the python terminal or Windows CMD

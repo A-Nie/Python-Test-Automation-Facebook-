@@ -3,12 +3,17 @@
 # Automation of login to facebook and entry into the user's profile.
 
 
-# To run the test correctly, start the Python console or Windows CMD and perform the following steps:
+* To run the test correctly, start the Python console or Windows CMD and perform the following steps:
 
 # go to the project
  
-**In the code you have to enter your path to the chromedriver:
-DRIVER_PATH = r'X:\users\'  ( "r" symbol for Windows users)
+*In the code you have to enter your path to the chromedriver:
+# DRIVER_PATH = r'X:\users\'  ( "r" symbol for Windows users)
+
+*In this place -> 
+# profile = driver.find_element_by_xpath("//span[@class='xxx'][contains(.,'xxx')]")
+you must you must enter the xpath path for your profile
+
 
 # select the folder "venv" -> go to "Scripts" -> find the file "python.exe" -> right click "copy path" -> paste to the python console or Windows CMD
 
